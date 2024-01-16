@@ -1,0 +1,1 @@
+Se você aumenta a capacidade de um em um, não está só fazendo essa operação, também está realocando os objetos de um lugar para o outro e isso tem um custo de memória. Criando sempre de dobro em dobro, a realocação ainda que existente, se torna menos frequente.
